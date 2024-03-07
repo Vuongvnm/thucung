@@ -17,5 +17,5 @@ if ($_GET == []) {
     }
 }
 include "view/footer.php";
-
+// sangs ddepj trai qua
 ?>
