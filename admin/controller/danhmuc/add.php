@@ -19,3 +19,39 @@ if(!isset($_POST['themdanhmuc'])) {
     }
     header('Location: index.php?chucnang=listdanhmuc');
 }
+
+// SUWAE\R MỘT CHÚT
+// FAEUIAF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HI
