@@ -4,6 +4,10 @@
 include "model/danhmuc.php";
 
 $listDanhMuc = lay_danhmuc_tudb();
+// hahahahahahahahahahahahaha
+// hahahahahahahahahahahahaha
+// hahahahahahahahahahahahaha
+// hahahahahahahahahahahahaha
 
 // B2 xử lý dữ liệu -> Giao cho controller
 
