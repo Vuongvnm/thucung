@@ -4,6 +4,11 @@
 include "model/danhmuc.php";
 
 $listDanhMuc = lay_danhmuc_tudb();
+// hahahahahahahahahahahahaha
+// hahahahahahahahahahahahaha
+// hahahahahahahahahahahahaha
+// hahahahahahahahahahahahaha
+
 // hohohohohohohohohohohohohohoho
 // hohohohohohohohohohohohohohoho
 // hohohohohohohohohohohohohohoho
