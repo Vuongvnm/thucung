@@ -1,1 +1,1 @@
-sáng đẹp trai quá
+sáng đẹp vẫn quá đẹp trai
