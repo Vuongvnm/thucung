@@ -10,12 +10,100 @@ if(!isset($_POST['themdanhmuc'])) {
     include "view/danhmuc/add.php";
 } else {
     include "model/danhmuc.php";
-    // B1 Lấy dữ liệu từ người dùng, xử lý dữ liệu -> Giao cho controller
+    // B1 Lấy dữ liệu từ người dùng, xử lý dữ liệu -> Giao cho controller -> Lâm đã sửa
     if(isset($_POST['ten'])) {
         $ten = $_POST['ten'];
 
         // B2 Cập nhật dữ liệu vào DB -> GIao cho model
         them_mot_danhmuc($ten);
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
+        //lkas;daskl;da
     }
     header('Location: index.php?chucnang=listdanhmuc');
 }
