@@ -1,4 +1,4 @@
-<a class="btn btn-primary" href="index.php?chucnang=themsanphamtrongdanhmuc"> Thêm mới </a>
+<a class="btn btn-primary" href="index.php?chucnang=themsanphamtrongdanhmuc&id=1"> Thêm mới </a>
 <table class="table table-dark table-hover">
   <thead>
     <tr>
@@ -26,7 +26,7 @@
         <td><?= $item['ten'] ?></td>
         <td><?= $item['gia'] ?> VND</td>
         <td><?= $item['tuoi'] ?></td>
-        <td><?= $item['gioitinh']?'Đực':'Cái' ?></td>
+        <td><?= $item['gioitinh']?'Cái':'Đực' ?></td>
         <td><?= $item['nguongoc'] ?></td>
         <td><?= $item['tiemchung']?'Đã tiêm chủng':'Chưa tiêm chủng' ?></td>
         <td><?= $item['soluong'] ?></td>

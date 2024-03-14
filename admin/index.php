@@ -16,9 +16,13 @@ if ($_GET == []) {
             case 'chitietdanhmuc':
                 include "controller/sanpham/list.php";
                 break;
+            case 'xoadanhmuc':
+                include "controller/danhmuc/delete.php";
+                break;
             case 'themsanphamtrongdanhmuc':
                 include "controller/sanpham/add.php";
                 break;
+            
         }
     }
 }

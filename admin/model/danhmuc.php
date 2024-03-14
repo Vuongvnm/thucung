@@ -9,4 +9,9 @@ function them_mot_danhmuc($ten) {
     $sql = "INSERT INTO danhmuc (tendanhmuc) VALUES ('$ten')";
     pdo_execute($sql);
 }
+
+function xoa_mot_danhmuc($id) {
+    $sql = "DELETE FROM danhmuc WHERE id = '$id'";
+    pdo_execute($sql);
+}
 ?>
